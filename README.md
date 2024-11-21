@@ -66,10 +66,10 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
   <img src="certi/Cpp-1.png" width="400px" height="300">
   <img src="certi/Java Training-1.png" width="400px" height="300">
   <img src="certi/Python-1.png" width="400px" height="300">
-  <img src="certi/computer networks certificate-1.png" width="400px" height="300">
   <img src="certi/Maven_Embedded_Systems-1.png" width="400px" height="300">
   <img src="certi/Mohit_Introduction_to_Packet_Tracer_Badge20230727-28-ep6ofp-1.png" width="400px" height="300">
   <img src="certi/digitalgarage_certificate-1.png" width="400px" height="300">
+  <img src="certi/computer networks certificate-1.png" width="400px" height="300">
   <img src="certi/nptel certificate-1.png" width="400px" height="300">
   <img src="certi/Adobe_UI_UX-1.png" width="400px" height="300">
 </p>
