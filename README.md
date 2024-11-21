@@ -44,7 +44,6 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 ---
 
 ### 📫 Connect with Me
-- **GitHub**: [mohitsubramaniam1](http://github.com/mohitsubramaniam1)
 - **LinkedIn**: [mosub](http://linkedin.com/in/mosub)
 - **LeetCode**: [MohitSubramaniam1](https://leetcode.com/u/MohitSubramaniam1/)
 - **Email**: mohitsubramaniam@gmail.com  
