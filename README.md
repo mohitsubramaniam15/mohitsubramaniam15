@@ -46,7 +46,6 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 ### 4. [Faculty Recommendation System](https://github.com/mohitsubramaniam1/Faculty-Recommendation-System)
    - **Tech Stack**: Python
    - **Description**: A system for classifying faculty based on experience and reviews. It uses Tim-sort and binary search algorithms for classification and efficiency analysis, along with Excel integration for real-time data updates.
-<br />
 
 #
 ### 🎓 Education
