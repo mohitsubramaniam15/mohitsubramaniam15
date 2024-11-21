@@ -3,9 +3,9 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 
 <p align="center">
   <a href="https://www.youtube.com/@mohitsubramaniam2747?sub_confirmation=1">
-         <img alt="youtube subscribers"  width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/youtube_button_icon_151827.png"/></a>
+         <img alt="youtube subscribers"  width="100px" style="padding-right:20px;" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/youtube_button_icon_151827.png"/></a>
         <a href="http://linkedin.com/in/mosub">
-         <img alt="linkedin" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png"/></a> 
+         <img alt="linkedin" width="100px" style="padding-right:20px;" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png"/></a> 
          <a href="https://leetcode.com/u/MohitSubramaniam1/">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png"/></a>
 </p>
