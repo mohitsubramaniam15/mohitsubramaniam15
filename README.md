@@ -32,7 +32,6 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 
 #
 ## 🚀 Featured Projects
-
 ### 1. [Smart RC Rescue Rover for Fire Emergency](https://github.com/mohitsubramaniam1/SRCFE)
    - **Tech Stack**: Arduino, ESP32, Embedded C++, Python, HC-05, L293D, MQ-2/MQ-135, LM35
    - **Description**: A real-time environmental monitoring vehicle designed for fire emergency operations. The rover is equipped with sensors to detect smoke, gas, and temperature, providing crucial data to aid in rescue efforts.
