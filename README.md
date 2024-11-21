@@ -62,14 +62,14 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 #
 ### 📜 Certifications
 <p align="center">
-  <img src="certi/Adobe_UI_UX-1.png" width="50px">
-  <img src="certi/C-1.png" width="50px">
-  <img src="certi/Cpp-1.png" width="50px">
-  <img src="certi/Java Training-1.png" width="50px">
-  <img src="certi/Maven_Embedded_Systems-1.png" width="50px">
-  <img src="certi/Python-1.png" width="50px">
-  <img src="certi/computer networks certificate-1.png" width="50px">
-  <img src="certi/digitalgarage_certificate-1.png" width="50px">
-  <img src="certi/nptel certificate-1.png" width="50px">
-  <img src="certi/Mohit_Introduction_to_Packet_Tracer_Badge20230727-28-ep6ofp-1.png" width="50px">
+  <img src="certi/Adobe_UI_UX-1.png" width="200px">
+  <img src="certi/C-1.png" width="200px">
+  <img src="certi/Cpp-1.png" width="200px">
+  <img src="certi/Java Training-1.png" width="200px">
+  <img src="certi/Maven_Embedded_Systems-1.png" width="200px">
+  <img src="certi/Python-1.png" width="200px">
+  <img src="certi/computer networks certificate-1.png" width="200px">
+  <img src="certi/digitalgarage_certificate-1.png" width="200px">
+  <img src="certi/nptel certificate-1.png" width="200px">
+  <img src="certi/Mohit_Introduction_to_Packet_Tracer_Badge20230727-28-ep6ofp-1.png" width="200px">
 </p>
