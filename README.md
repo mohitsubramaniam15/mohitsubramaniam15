@@ -30,6 +30,7 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 
 <br />
 
+#
 ## 🚀 Featured Projects
 
 ### 1. [Smart RC Rescue Rover for Fire Emergency](https://github.com/mohitsubramaniam1/SRCFE)
