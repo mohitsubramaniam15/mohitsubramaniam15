@@ -62,7 +62,7 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 #
 ### 📜 Certifications
 <p align="center">
-  <img src="certi/Adobe_UI_UX-1.png" width="400px">
+  <img src="certi/Adobe_UI_UX-1.png" width="400px" height="300">
   <img src="certi/C-1.png" width="400px">
   <img src="certi/Cpp-1.png" width="400px">
   <img src="certi/Java Training-1.png" width="200px">
