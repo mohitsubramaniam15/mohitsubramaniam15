@@ -1,4 +1,4 @@
- 
+![Banner](mohitsubramaniam15/hybrid_clustering_based_in-place_sorting_algorithm/images/banner.png)
 ### 👋 About Me
 Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Technology** (VIT) specializing in **Computer Engineering with Cyber Physical Systems**. I am passionate about building technology-driven solutions and have hands-on experience in embedded systems, automation, software development, and more.
 
