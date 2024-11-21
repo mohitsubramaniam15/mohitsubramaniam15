@@ -63,11 +63,10 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 ### 📜 Certifications
 <p align="center">
   <img src="certi/Adobe_UI_UX-1.png" width="50px">
-  <img src="certi/C-1.png.png" width="50px">
+  <img src="certi/C-1.png" width="50px">
   <img src="certi/Cpp-1.png" width="50px">
   <img src="certi/Java Training-1.png" width="50px">
   <img src="certi/Maven_Embedded_Systems-1.png" width="50px">
-  <img src="Mohit_Introduction_to_Packet_Tracer_Badge20230727-28-ep6ofp" width="50px">
   <img src="certi/Python-1.png" width="50px">
   <img src="computer networks certificate-1.png" width="50px">
   <img src="digitalgarage_certificate-1.png" width="50px">
