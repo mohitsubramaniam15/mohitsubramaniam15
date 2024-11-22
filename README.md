@@ -9,7 +9,7 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
          <a href="https://leetcode.com/u/MohitSubramaniam1/">
          <img alt="leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png"/></a>
         <a href="mohitsubramaniam@gmail.com">
-         <img alt="mohitsubramaniam@gmail.com" width="80px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png"/></a>
+         <img alt="mailto:mohitsubramaniam@gmail.com" width="80px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png"/></a>
 </p>
 
 ---
