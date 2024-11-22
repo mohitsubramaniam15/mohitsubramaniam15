@@ -34,7 +34,7 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 
 <p align="center">
     <a href="https://github.com/mohitsubramaniam15/hybrid_clustering_based_in-place_sorting_algorithm">
-        <img src="assets/hybrid_sorting.png" alt="Hybrid Clustering-Based In-Place Sorting Algorithm" width="150" style="border-radius: 8px;">
+        <img src="assets/hybrid_sorting.png" alt="Hybrid Clustering-Based In-Place Sorting Algorithm" width="500" style="border-radius: 8px;">
     </a>
     <br>
     <b>Hybrid Sorting Algorithm</b>
