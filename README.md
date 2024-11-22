@@ -34,18 +34,18 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 
 ## Featured Projects
 
-<table align="center">
+<table align="center" style="border-radius: 0px;"> 
   <tr>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/hybrid_clustering_based_in-place_sorting_algorithm">
-          <img src="assets/hybrid_sorting.png" alt="Hybrid Clustering-Based In-Place Sorting Algorithm" width="300" style="border-radius: 8px;">
+          <img src="assets/hybrid_sorting.png" alt="Hybrid Clustering-Based In-Place Sorting Algorithm" width="350" style="border-radius: 8px;">
       </a>
       <br>
       <b>Hybrid Sorting Algorithm</b>
     </td>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/AeroLumenQuad-A-QuadCopter-project">
-          <img src="assets/drone_project.gif" alt="Drone for Earthquake Assistance" width="300" style="border-radius: 8px;">
+          <img src="assets/drone_project.gif" alt="Drone for Earthquake Assistance" width="350" style="border-radius: 8px;">
       </a>
       <br>
       <b>Drone for Earthquake Assistance</b>
@@ -54,14 +54,14 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
   <tr>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/RC-Fire-Rescue-Rover">
-          <img src="assets/rescue_rover.gif" alt="Smart RC Rescue Rover for Fire Emergency" width="300" style="border-radius: 8px;">
+          <img src="assets/rescue_rover.gif" alt="Smart RC Rescue Rover for Fire Emergency" width="350" style="border-radius: 8px;">
       </a>
       <br>
       <b>Smart RC Rescue Rover</b>
     </td>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/Password-Manager">
-          <img src="assets/password_manager.png" alt="Password Manager with an Easter Egg" width="300" style="border-radius: 8px;">
+          <img src="assets/password_manager.png" alt="Password Manager with an Easter Egg" width="350" style="border-radius: 8px;">
       </a>
       <br>
       <b>Password Manager</b>
