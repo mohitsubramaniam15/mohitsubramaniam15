@@ -31,21 +31,32 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 
 #
 ### 🚀 Featured Projects
-### 1. [Smart RC Rescue Rover for Fire Emergency](https://github.com/mohitsubramaniam1/SRCFE)
-   - **Tech Stack**: Arduino, ESP32, Embedded C++, Python, HC-05, L293D, MQ-2/MQ-135, LM35
-   - **Description**: A real-time environmental monitoring vehicle designed for fire emergency operations. The rover is equipped with sensors to detect smoke, gas, and temperature, providing crucial data to aid in rescue efforts.
+<h2 align="center">Featured Projects</h2>
 
-### 2. [Automated File Organizer](https://github.com/mohitsubramaniam1/AUTOMATED-FILE-ORGANIZER)
-   - **Tech Stack**: Bash, inotify-tools, systemd
-   - **Description**: A bash script that organizes files in your downloads directory by automatically sorting them into folders based on file type (images, videos, documents, etc.), enhancing file management efficiency.
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
 
-### 3. [Password Manager](https://github.com/mohitsubramaniam1/Password-Manager)
-   - **Tech Stack**: Python, Cryptography, Fernet
-   - **Description**: A secure password management tool with 64-bit encryption, allowing users to store, modify, and view passwords alongside usernames. Includes an embedded arcade game that appears when errors are encountered for a fun twist.
+<a href="https://github.com/mohitsubramaniam15/hybrid_clustering_based_in-place_sorting_algorithm" style="text-decoration: none;">
+        <img src="assets/hybrid_sorting.gif" alt="Hybrid Clustering-Based In-Place Sorting Algorithm" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+        <p style="text-align: center; color: #1f4e78; font-weight: bold; margin-top: 5px;">Hybrid Sorting Algorithm</p>
+    </a>
 
-### 4. [Faculty Recommendation System](https://github.com/mohitsubramaniam1/Faculty-Recommendation-System)
-   - **Tech Stack**: Python
-   - **Description**: A system for classifying faculty based on experience and reviews. It uses Tim-sort and binary search algorithms for classification and efficiency analysis, along with Excel integration for real-time data updates.
+  <a href="https://github.com/mohitsubramaniam15/AeroLumenQuad-A-QuadCopter-project" style="text-decoration: none;">
+        <img src="assets/drone_project.gif" alt="Drone for Earthquake Assistance" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+        <p style="text-align: center; color: #1f4e78; font-weight: bold; margin-top: 5px;">Drone for Earthquake Assistance</p>
+    </a>
+
+   <a href="https://github.com/mohitsubramaniam15/RC-Fire-Rescue-Rover" style="text-decoration: none;">
+        <img src="assets/rescue_rover.gif" alt="Smart RC Rescue Rover for Fire Emergency" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+        <p style="text-align: center; color: #1f4e78; font-weight: bold; margin-top: 5px;">Smart RC Rescue Rover</p>
+    </a>
+
+  <a href="https://github.com/mohitsubramaniam15/Password-Manager" style="text-decoration: none;">
+        <img src="assets/password_manager.gif" alt="Password Manager with an Easter Egg" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+        <p style="text-align: center; color: #1f4e78; font-weight: bold; margin-top: 5px;">Password Manager</p>
+    </a>
+
+</div>
+
 
 #
 ### 🎓 Education
