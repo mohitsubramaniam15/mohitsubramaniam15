@@ -31,31 +31,38 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 
 #
 ### 🚀 Featured Projects
-<h2 align="center">Featured Projects</h2>
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
-
-<a href="https://github.com/mohitsubramaniam15/hybrid_clustering_based_in-place_sorting_algorithm" style="text-decoration: none;">
-        <img src="assets/hybrid_sorting.gif" alt="Hybrid Clustering-Based In-Place Sorting Algorithm" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-        <p style="text-align: center; color: #1f4e78; font-weight: bold; margin-top: 5px;">Hybrid Sorting Algorithm</p>
+<p align="center">
+    <a href="https://github.com/mohitsubramaniam15/hybrid_clustering_based_in-place_sorting_algorithm">
+        <img src="assets/hybrid_sorting.gif" alt="Hybrid Clustering-Based In-Place Sorting Algorithm" width="150" style="border-radius: 8px;">
     </a>
+    <br>
+    <b>Hybrid Sorting Algorithm</b>
+</p>
 
-  <a href="https://github.com/mohitsubramaniam15/AeroLumenQuad-A-QuadCopter-project" style="text-decoration: none;">
-        <img src="assets/drone_project.gif" alt="Drone for Earthquake Assistance" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-        <p style="text-align: center; color: #1f4e78; font-weight: bold; margin-top: 5px;">Drone for Earthquake Assistance</p>
+<p align="center">
+    <a href="https://github.com/mohitsubramaniam15/AeroLumenQuad-A-QuadCopter-project">
+        <img src="assets/drone_project.gif" alt="Drone for Earthquake Assistance" width="150" style="border-radius: 8px;">
     </a>
+    <br>
+    <b>Drone for Earthquake Assistance</b>
+</p>
 
-   <a href="https://github.com/mohitsubramaniam15/RC-Fire-Rescue-Rover" style="text-decoration: none;">
-        <img src="assets/rescue_rover.gif" alt="Smart RC Rescue Rover for Fire Emergency" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-        <p style="text-align: center; color: #1f4e78; font-weight: bold; margin-top: 5px;">Smart RC Rescue Rover</p>
+<p align="center">
+    <a href="https://github.com/mohitsubramaniam15/RC-Fire-Rescue-Rover">
+        <img src="assets/rescue_rover.gif" alt="Smart RC Rescue Rover for Fire Emergency" width="150" style="border-radius: 8px;">
     </a>
+    <br>
+    <b>Smart RC Rescue Rover</b>
+</p>
 
-  <a href="https://github.com/mohitsubramaniam15/Password-Manager" style="text-decoration: none;">
-        <img src="assets/password_manager.gif" alt="Password Manager with an Easter Egg" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-        <p style="text-align: center; color: #1f4e78; font-weight: bold; margin-top: 5px;">Password Manager</p>
+<p align="center">
+    <a href="https://github.com/mohitsubramaniam15/Password-Manager">
+        <img src="assets/password_manager.gif" alt="Password Manager with an Easter Egg" width="150" style="border-radius: 8px;">
     </a>
-
-</div>
+    <br>
+    <b>Password Manager</b>
+</p>
 
 
 #
