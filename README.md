@@ -5,7 +5,7 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 
 ### 🧰 Languages and Tools
 <table align="center" style="background-color: white;">
-  <tr>
+  <tr style="background-color: white;">
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50px" />
       <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" height="50px" />
