@@ -21,10 +21,7 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 <br />
 
 #
-### 🚀 Featured Projects
-
-## Featured Projects
-
+## 🚀 Featured Projects
 <table align="center" style="border-radius: 0px;"> 
   <tr>
     <td align="center">
