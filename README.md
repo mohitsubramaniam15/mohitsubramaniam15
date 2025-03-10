@@ -6,8 +6,6 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 ### 🧰 Languages and Tools
 
 
-<br>
-
 #
 ### 🚀 Featured Projects
 
@@ -37,8 +35,8 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
   <img src="certi/Adobe_UI_UX-1.png" width="200px" height="150">
 </p>
 
-#
-### Hobby projects
+---
+### 🎨 Hobby projects
 <table align="center" style="border-radius: 0px;"> 
   <tr>
     <td align="center">
@@ -75,8 +73,7 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 </table>
 
 #
-### some extra tools
-### 🧰 Languages and Tools
+### 🔧 Some extra tools
   <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
