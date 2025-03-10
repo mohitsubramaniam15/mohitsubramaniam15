@@ -27,16 +27,14 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
   <tr>
     <td align="center" style="padding: 10px;">
       <b>Bachelor of Technology</b><br>
-      Computer Engineering (Specialization in Cyber Physical Systems)
+      Computer Engineering (Specialization in Cyber Physical Systems)<br>
+      <b>CGPA:</b> 7.89<br>
+      <b>Graduation Year:</b> 2025
     </td>
     <td align="center" style="padding: 10px;">
       <b>Higher Secondary</b> (2021): 85%<br>
       <b>Secondary</b> (2019): 87.5%
     </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;"><b>CGPA:</b> 7.89</td>
-    <td align="center" style="padding: 10px;"><b>Graduation Year:</b> 2025</td>
   </tr>
 </table>
 
