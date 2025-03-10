@@ -1,8 +1,9 @@
 ### 👋 About Me
 #### Hello, world! 
-<br>
+<p>
 I'm Mohit Subramaniam, a B.Tech student at **VIT Chennai**, specializing in **Computer Science Engineering (Cyber-Physical Systems)**. I focus on **data engineering, cloud computing**, and real-time analytics, working with **Azure, AWS, GCP, Snowflake, Fabric, and Airflow**.
 I’ve built scalable ETL pipelines, streaming architectures, and analytical dashboards using tools like Databricks, Power BI, dbt, Delta Lake, and Fabric.
+  </p>
 ---
 
 ### 🧰 Languages and Tools
