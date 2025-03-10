@@ -6,32 +6,33 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 ### 🧰 Languages and Tools
 <p align="center">
   <!-- Languages & Data Tools -->
-  <img align="center" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img align="center" alt="SQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="DAX" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/DAX_logo.svg/2048px-DAX_logo.svg.png" />
+  <img align="center" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="SQL" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+  <img align="center" alt="DAX" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/20/DAX_logo.svg" />
   <img align="center" alt="PySpark" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-  <img align="center" alt="Matlab" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  <img align="center" alt="Matlab" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.svg" />
   <img align="center" alt="Power BI" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" />
-  <img align="center" alt="Excel" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" alt="Excel" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
   <img align="center" alt="Power Query" width="50px" style="padding-right:10px;" src="https://www.sqlbi.com/wp-content/uploads/2017/10/power-query-icon.png" />
-  <img align="center" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-download-in-svg-png-gif-file-formats--70-flat-social-icons-color-pack-logos-432516.png?f=webp&w=512" />
+  <img align="center" alt="GitHub" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 </p>
 
 <p align="center">
   <!-- Technologies -->
-  <img align="center" alt="Azure" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="Azure" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" />
   <img align="center" alt="Fabric" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Microsoft_Fabric_Logo.svg" />
-  <img align="center" alt="Databricks" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/2/20/Databricks_Logo.png" />
-  <img align="center" alt="Synapse" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Azure_Synapse_Analytics_Logo.svg/1200px-Azure_Synapse_Analytics_Logo.svg.png" />
+  <img align="center" alt="Databricks" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Databricks_Logo.svg" />
+  <img align="center" alt="Synapse" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/2/21/Azure_Synapse_Analytics_Logo.svg" />
   <img align="center" alt="Delta Lake" width="50px" style="padding-right:10px;" src="https://delta.io/static/delta-lake-logo.svg" />
-  <img align="center" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img align="center" alt="dbt" width="50px" style="padding-right:10px;" src="https://docs.getdbt.com/img/dbt-leaf.png" />
-  <img align="center" alt="Snowflake" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Snowflake_Inc.svg/1200px-Snowflake_Inc.svg.png" />
+  <img align="center" alt="AWS" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
+  <img align="center" alt="dbt" width="50px" style="padding-right:10px;" src="https://docs.getdbt.com/img/dbt-leaf.svg" />
+  <img align="center" alt="Snowflake" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/7/7b/Snowflake_Inc.svg" />
   <img align="center" alt="GCP" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" />
-  <img align="center" alt="Soda" width="50px" style="padding-right:10px;" src="https://sodadata.io/images/soda-og-image.png" />
-  <img align="center" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Airflow" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Apache_airflow_logo.png" />
+  <img align="center" alt="Soda" width="50px" style="padding-right:10px;" src="https://sodadata.io/images/soda-og-image.svg" />
+  <img align="center" alt="Docker" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
+  <img align="center" alt="Airflow" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Apache_airflow_logo.svg" />
 </p>
+
 
 
 #
