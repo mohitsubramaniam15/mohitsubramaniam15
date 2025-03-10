@@ -14,22 +14,19 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
   <img align="center" alt="Excel" width="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-excel-logo-icon-download-in-svg-png-gif-file-formats--brand-brands-logos-pack-icons-116252.png?f=webp&w=512" />
   <img align="center" alt="Power Query" width="50px" style="padding-right:10px;" src="https://static1.squarespace.com/static/57cfc8a3d482e945c66724f7/57da3788f5e231f8a01b6b76/5f68275528978b1bff2abeab/1600763192655/PowerQ2.PNG?format=1500w" />
   <img align="center" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-github-icon-download-in-svg-png-gif-file-formats--logo-developer-tool-brand-logos-pack-icons-1597554.png?f=webp&w=512" />
-</p>
-
-<p align="center">
   <!-- Technologies -->
   <img align="center" alt="Azure" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" />
-  <img align="center" alt="Fabric" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Microsoft_Fabric_Logo.svg" />
-  <img align="center" alt="Databricks" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Databricks_Logo.svg" />
+  <img align="center" alt="Fabric" width="50px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" />
+  <img align="center" alt="Databricks" width="50px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" />
   <img align="center" alt="Synapse" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/2/21/Azure_Synapse_Analytics_Logo.svg" />
-  <img align="center" alt="Delta Lake" width="50px" style="padding-right:10px;" src="https://delta.io/static/delta-lake-logo.svg" />
+  <img align="center" alt="Delta Lake" width="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZC0ik3p3Xgi-AVqqy-GheqJX6VjqhyX2_w&s" />
   <img align="center" alt="AWS" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
-  <img align="center" alt="dbt" width="50px" style="padding-right:10px;" src="https://docs.getdbt.com/img/dbt-leaf.svg" />
-  <img align="center" alt="Snowflake" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/7/7b/Snowflake_Inc.svg" />
+  <img align="center" alt="dbt" width="50px" style="padding-right:10px;" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-icon-sefw4nnptjlk5lk13atgvm.png/dbt-icon-2yxlz1fvy25mvn5scgnlw.png?_a=DAJFJtWIZAAC" />
+  <img align="center" alt="Snowflake" width="50px" style="padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fishbowlapp.com%2Fbowl%2Fsnowflake-data-engineering&psig=AOvVaw2ANBoA95bealN-SDwruL_n&ust=1741721022543000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCio8qegIwDFQAAAAAdAAAAABAJ" />
   <img align="center" alt="GCP" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" />
-  <img align="center" alt="Soda" width="50px" style="padding-right:10px;" src="https://sodadata.io/images/soda-og-image.svg" />
-  <img align="center" alt="Docker" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
-  <img align="center" alt="Airflow" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Apache_airflow_logo.svg" />
+  <img align="center" alt="Soda" width="50px" style="padding-right:10px;" src="https://repository-images.githubusercontent.com/321458274/c25b7400-5747-11eb-9ad2-452a7bdfad0e" />
+  <img align="center" alt="Docker" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331370/docker.svg" />
+  <img align="center" alt="Airflow" width="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wBizqY6LoRyWJ7Xgr2CXVGBTLwkx9VIflQ&s" />
 </p>
 
 
