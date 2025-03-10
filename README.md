@@ -52,7 +52,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
   <tr>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/Az-finance-streaming">
-          <img src="bi_screenshots/streaming_bi.png" alt="Azure-Fabric Streaming Analysis" width="350" style="border-radius: 8px;">
+          <img src="bi_screenshots/streaming_bi.png" alt="Azure-Fabric Streaming Analysis" height="350" style="border-radius: 8px;">
       </a>
       <br>
       <b>Azure-Fabric Streaming Analysis</b>
@@ -63,7 +63,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
     </td>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/Az-Olympics">
-          <img src="bi_screenshots/olympics.png" alt="Azure Olympics-Delta Lake Analysis" width="350" style="border-radius: 8px;">
+          <img src="bi_screenshots/olympics.png" alt="Azure Olympics-Delta Lake Analysis" height="350" style="border-radius: 8px;">
       </a>
       <br>
       <b>Azure Olympics-Delta Lake Analysis</b>
