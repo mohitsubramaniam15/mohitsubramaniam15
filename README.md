@@ -92,7 +92,7 @@ I enjoy playing the guitar 🎸, working on hardware projects 🔧 (hint: check 
 </p>
 
 ---
-### Hobby-projects
+### 🎨 Hobby-projects
 <table align="center" style="border-radius: 0px;"> 
   <tr>
     <td align="center">
