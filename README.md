@@ -57,7 +57,9 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
       <br>
       <b>Azure-Fabric Streaming Analysis</b>
       <br>
-      <sub>Fabric, Azure Event Hubs, Stream Analytics, Synapse, KQL</sub>
+      <sub>Real-time stock data pipeline using Azure Functions, Event Hubs, and Synapse Analytics.</sub>
+      <br>
+      <sub><b>Tech Stack:</b> Fabric, Azure Event Hubs, Stream Analytics, Synapse, KQL</sub>
     </td>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/Az-Olympics">
@@ -66,7 +68,9 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
       <br>
       <b>Azure Olympics-Delta Lake Analysis</b>
       <br>
-      <sub>Azure, Databricks, Power BI, DAX, JSON, SQL, PySpark</sub>
+      <sub>Implemented Medallion architecture for Olympic data processing with Delta Lake and Power BI visualization.</sub>
+      <br>
+      <sub><b>Tech Stack:</b> Azure, Databricks, Power BI, DAX, JSON, SQL, PySpark</sub>
     </td>
   </tr>
   <tr>
@@ -77,7 +81,9 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
       <br>
       <b>AWS YouTube Analysis</b>
       <br>
-      <sub>AWS S3, Glue, Lambda, Athena, QuickSight, CloudWatch</sub>
+      <sub>Built a scalable AWS pipeline for YouTube analytics with S3, Glue, Athena, and QuickSight.</sub>
+      <br>
+      <sub><b>Tech Stack:</b> AWS S3, Glue, Lambda, Athena, QuickSight, CloudWatch</sub>
     </td>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/Aws-Snowflake-RS">
@@ -86,7 +92,9 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
       <br>
       <b>AWS Snowflake Real Estate Analysis</b>
       <br>
-      <sub>AWS, Airflow, EC2, S3, Snowflake, Power BI, SQL, Python</sub>
+      <sub>Automated ETL for real estate data using Apache Airflow and Snowflake, with Power BI insights.</sub>
+      <br>
+      <sub><b>Tech Stack:</b> AWS, Apache Airflow, EC2, S3, Snowflake, Power BI, SQL, Python</sub>
     </td>
   </tr>
   <tr>
@@ -97,7 +105,9 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
       <br>
       <b>GCP Snowflake Sales Analysis</b>
       <br>
-      <sub>Apache Airflow, BigQuery, Soda, dbt, Power BI, SQL, Python</sub>
+      <sub>Orchestrated an ETL pipeline with Apache Airflow and BigQuery, ensuring data quality with Soda and dbt.</sub>
+      <br>
+      <sub><b>Tech Stack:</b> Apache Airflow, BigQuery, Soda, dbt, Power BI, SQL, Python</sub>
     </td>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/orders_dbt_sf_af">
@@ -106,7 +116,9 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
       <br>
       <b>DBT Snowflake Orders Analysis</b>
       <br>
-      <sub>dbt, Snowflake, Airflow (Astronomer), SQL, Python, Power BI</sub>
+      <sub>Designed automated dbt pipelines with Snowflake and Airflow (Astronomer) for optimized data processing.</sub>
+      <br>
+      <sub><b>Tech Stack:</b> dbt, Snowflake, Apache Airflow (Astronomer), SQL, Python, Power BI</sub>
     </td>
   </tr>
 </table>
