@@ -48,6 +48,69 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
 
 #
 ## 🚀 Featured Projects
+<table align="center" style="border-radius: 0px;"> 
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mohitsubramaniam15/Az-finance-streaming">
+          <img src="assets/azure_fabric.png" alt="Azure-Fabric Streaming Analysis" width="350" style="border-radius: 8px;">
+      </a>
+      <br>
+      <b>Azure-Fabric Streaming Analysis</b>
+      <br>
+      <sub>Fabric, Azure Event Hubs, Stream Analytics, Synapse, KQL</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mohitsubramaniam15/Az-Olympics">
+          <img src="assets/azure_olympics.png" alt="Azure Olympics-Delta Lake Analysis" width="350" style="border-radius: 8px;">
+      </a>
+      <br>
+      <b>Azure Olympics-Delta Lake Analysis</b>
+      <br>
+      <sub>Azure, Databricks, Power BI, DAX, JSON, SQL, PySpark</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mohitsubramaniam15/aws-project">
+          <img src="assets/aws_youtube.png" alt="AWS YouTube Analysis" width="350" style="border-radius: 8px;">
+      </a>
+      <br>
+      <b>AWS YouTube Analysis</b>
+      <br>
+      <sub>AWS S3, Glue, Lambda, Athena, QuickSight, CloudWatch</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mohitsubramaniam15/Aws-Snowflake-RS">
+          <img src="assets/aws_snowflake.png" alt="AWS Snowflake Real Estate Analysis" width="350" style="border-radius: 8px;">
+      </a>
+      <br>
+      <b>AWS Snowflake Real Estate Analysis</b>
+      <br>
+      <sub>AWS, Airflow, EC2, S3, Snowflake, Power BI, SQL, Python</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mohitsubramaniam15/gcp-af-soda-dbt-docker">
+          <img src="assets/gcp_snowflake.png" alt="GCP Snowflake Sales Analysis" width="350" style="border-radius: 8px;">
+      </a>
+      <br>
+      <b>GCP Snowflake Sales Analysis</b>
+      <br>
+      <sub>Apache Airflow, BigQuery, Soda, dbt, Power BI, SQL, Python</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mohitsubramaniam15/orders_dbt_sf_af">
+          <img src="assets/dbt_snowflake.png" alt="DBT Snowflake Orders Analysis" width="350" style="border-radius: 8px;">
+      </a>
+      <br>
+      <b>DBT Snowflake Orders Analysis</b>
+      <br>
+      <sub>dbt, Snowflake, Airflow (Astronomer), SQL, Python, Power BI</sub>
+    </td>
+  </tr>
+</table>
+
 
 #
 ## 🎓 Education
