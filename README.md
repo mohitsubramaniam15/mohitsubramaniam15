@@ -5,8 +5,7 @@ I'm a B.Tech student at <b>VIT Chennai</b>, specializing in <b>Computer Science 
 I’ve built scalable ETL pipelines, streaming architectures, and analytical dashboards using tools like Databricks, Power BI, dbt, and Delta Lake.
   </p>
 <p>
-  I enjoy playing the guitar 🎸, working on hardware projects 🔧 
-  hint: (<a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15?tab=readme-ov-file#-hobby-projects">check hobby projects</a>), and watching movies 🎬 in my free time. 
+  I enjoy playing the guitar 🎸, working on hardware projects 🔧 (hint: <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15?tab=readme-ov-file#-hobby-projects">check hobby projects</a>), and watching movies 🎬 in my free time. 
 </p>
 
 ---
