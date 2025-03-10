@@ -4,6 +4,34 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 ---
 
 ### 🧰 Languages and Tools
+<p align="center">
+  <!-- Languages & Data Tools -->
+  <img align="center" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="center" alt="SQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="DAX" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/DAX_logo.svg/2048px-DAX_logo.svg.png" />
+  <img align="center" alt="PySpark" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+  <img align="center" alt="Matlab" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  <img align="center" alt="Power BI" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" />
+  <img align="center" alt="Excel" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" alt="Power Query" width="50px" style="padding-right:10px;" src="https://www.sqlbi.com/wp-content/uploads/2017/10/power-query-icon.png" />
+  <img align="center" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-download-in-svg-png-gif-file-formats--70-flat-social-icons-color-pack-logos-432516.png?f=webp&w=512" />
+</p>
+
+<p align="center">
+  <!-- Technologies -->
+  <img align="center" alt="Azure" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="Fabric" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Microsoft_Fabric_Logo.svg" />
+  <img align="center" alt="Databricks" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/2/20/Databricks_Logo.png" />
+  <img align="center" alt="Synapse" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Azure_Synapse_Analytics_Logo.svg/1200px-Azure_Synapse_Analytics_Logo.svg.png" />
+  <img align="center" alt="Delta Lake" width="50px" style="padding-right:10px;" src="https://delta.io/static/delta-lake-logo.svg" />
+  <img align="center" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" alt="dbt" width="50px" style="padding-right:10px;" src="https://docs.getdbt.com/img/dbt-leaf.png" />
+  <img align="center" alt="Snowflake" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Snowflake_Inc.svg/1200px-Snowflake_Inc.svg.png" />
+  <img align="center" alt="GCP" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" />
+  <img align="center" alt="Soda" width="50px" style="padding-right:10px;" src="https://sodadata.io/images/soda-og-image.png" />
+  <img align="center" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Airflow" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Apache_airflow_logo.png" />
+</p>
 
 
 #
@@ -93,11 +121,12 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 
 #
 ### 🔧 Some extra tools
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Arduino" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Tinkercad" width="50px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/mQFpMUd2YiZ0Z8_NUxIQe-XxxfJY2rGFhFsbCHceEIcLx-ZWUmG0hmEivG80I6yhotY" />
-<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
+<p align="center">
+  <img align="center" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="center" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Arduino" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="Tinkercad" width="50px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/mQFpMUd2YiZ0Z8_NUxIQe-XxxfJY2rGFhFsbCHceEIcLx-ZWUmG0hmEivG80I6yhotY" />
+  <img align="center" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</p>
