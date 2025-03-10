@@ -6,9 +6,7 @@ I’ve built scalable ETL pipelines, streaming architectures, and analytical das
   </p>
 <p>
   I enjoy playing the guitar 🎸, working on hardware projects 🔧 
-  (<a href="#hobby-projects">hint: check hobby projects</a>), 
-  and watching movies 🎬 in my free time. 
-  I'm always curious about blending tech and creativity in new ways!
+  hint: (<a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15?tab=readme-ov-file#-hobby-projects">check hobby projects</a>), and watching movies 🎬 in my free time. 
 </p>
 
 ---
