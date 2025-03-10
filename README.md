@@ -24,7 +24,7 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
       <img src="https://static1.squarespace.com/static/57cfc8a3d482e945c66724f7/57da3788f5e231f8a01b6b76/5f68275528978b1bff2abeab/1600763192655/PowerQ2.PNG?format=1500w" alt="Power Query" width="50px" height="50px" />
       <img src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" alt="Databricks" width="50px" height="50px" />
       <img src="https://logowik.com/content/uploads/images/azure-synapse-analytics6078.jpg" alt="Synapse" width="50px" height="50px" />
-      <img src="https://repository-images.githubusercontent.com/321458274/c25b7400-5747-11eb-9ad2-452a7bdfad0e" alt="Soda" width="50px" height="50px" />
+      <img src="https://repository-images.githubusercontent.com/321458274/c25b7400-5747-11eb-9ad2-452a7bdfad0e" alt="Soda" height="50px" />
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wBizqY6LoRyWJ7Xgr2CXVGBTLwkx9VIflQ&s" alt="Airflow" width="50px" height="50px" />
     </td>
   </tr>
