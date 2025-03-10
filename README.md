@@ -114,10 +114,11 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
     </td>
   </tr>
 </table>
+
 #
 ## 📜 Certifications
 <p align="center">
-  <img src="certi/Java Training-1.png" width="100px" height="50">
+  <img src="certi/Java Training-1.png" width="200px" height="150">
   <img src="certi/Python-1.png" width="200px" height="150">
   <img src="certi/C-1.png" width="200px" height="150">
   <img src="certi/Cpp-1.png" width="200px" height="150">
