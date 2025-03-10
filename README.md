@@ -77,7 +77,7 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 ### 🎓 Education
 - **Vellore Institute of Technology, Chennai**  
   **Bachelor of Technology** in Computer Engineering (Specialization in Cyber Physical Systems)  
-  CGPA: 7.79  
+  CGPA: 7.89  
   **Graduation Year:** 2025
 
 - **Army Public School, Bangalore**  
