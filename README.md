@@ -14,7 +14,7 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
   <img align="center" alt="Power BI" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" />
   <img align="center" alt="Excel" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
   <img align="center" alt="Power Query" width="50px" style="padding-right:10px;" src="https://www.sqlbi.com/wp-content/uploads/2017/10/power-query-icon.png" />
-  <img align="center" alt="GitHub" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+  <img align="center" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-github-icon-download-in-svg-png-gif-file-formats--logo-developer-tool-brand-logos-pack-icons-1597554.png?f=webp&w=512" />
 </p>
 
 <p align="center">
