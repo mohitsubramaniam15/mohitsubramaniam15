@@ -1,6 +1,8 @@
 ### 👋 About Me
-Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Technology** (VIT) specializing in **Computer Engineering with Cyber Physical Systems**. I am passionate about building technology-driven solutions and have hands-on experience in embedded systems, automation, software development, and more.
+####Hello, world! 
+I'm Mohit Subramaniam, a B.Tech student at **VIT Chennai**, specializing in **Computer Science Engineering (Cyber-Physical Systems)**. I focus on **data engineering, cloud computing**, and real-time analytics, working with **Azure, AWS, GCP, Snowflake, Fabric, and Airflow**.
 
+I’ve built scalable ETL pipelines, streaming architectures, and analytical dashboards using tools like Databricks, Power BI, dbt, Delta Lake, and Fabric.
 ---
 
 ### 🧰 Languages and Tools
