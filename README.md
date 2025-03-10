@@ -8,6 +8,7 @@ I’ve built scalable ETL pipelines, streaming architectures, and analytical das
   I enjoy playing the guitar 🎸, working on hardware projects 🔧 (hint: <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15?tab=readme-ov-file#-hobby-projects">check hobby projects</a>), and watching movies 🎬 in my free time. 
 </p>
 My favourite visualisation tool is <b>PowerBI</b> and I have some experience with EDA and basic ML models.
+
 ---
 
 ## 🧰 Languages and Tools
