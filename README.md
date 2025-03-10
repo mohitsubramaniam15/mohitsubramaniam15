@@ -1,17 +1,6 @@
 ### 👋 About Me
 Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Technology** (VIT) specializing in **Computer Engineering with Cyber Physical Systems**. I am passionate about building technology-driven solutions and have hands-on experience in embedded systems, automation, software development, and more.
 
-<p align="center">
-  <a href="https://www.youtube.com/@mohitsubramaniam2747?sub_confirmation=1">
-         <img alt="youtube subscribers"  width="100px" style="padding-right:20px;" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/youtube_button_icon_151827.png"/></a>
-         <a href="http://linkedin.com/in/mosub">
-         <img alt="linkedin" width="100px" style="padding-right:20px;" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png"/></a> 
-         <a href="https://leetcode.com/u/MohitSubramaniam1/">
-         <img alt="leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png"/></a>
-        <a href="mailto:mohitsubramaniam@gmail.com">
-         <img alt="mohitsubramaniam@gmail.com" width="80px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png"/></a>
-</p>
-
 ---
 
 ### 🧰 Languages and Tools
