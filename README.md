@@ -1,4 +1,4 @@
-### 👋 About Me
+## 👋 About Me
 #### Hello, world! 
 <p>
 I'm Mohit Subramaniam, a B.Tech student at <b>VIT Chennai</b>, specializing in <b>Computer Science Engineering (Cyber-Physical Systems)</b>. I focus on <b>data engineering, cloud computing</b>, and real-time analytics, working with <b>Azure, AWS, GCP, Snowflake, Fabric, and Airflow</b>.
@@ -6,7 +6,7 @@ I’ve built scalable ETL pipelines, streaming architectures, and analytical das
   </p>
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 <table align="center">
   <tr>
     <td align="center">
@@ -42,10 +42,10 @@ I’ve built scalable ETL pipelines, streaming architectures, and analytical das
 </table>
 
 #
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 #
-### 🎓 Education
+## 🎓 Education
 <table align="center" style="border-radius: 0px; width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" style="padding: 10px;">
@@ -75,7 +75,7 @@ I’ve built scalable ETL pipelines, streaming architectures, and analytical das
 
 
 #
-### 📜 Certifications
+## 📜 Certifications
 <p align="center">
   <img src="certi/Java Training-1.png" width="200px" height="150">
   <img src="certi/Python-1.png" width="200px" height="150">
