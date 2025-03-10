@@ -82,16 +82,16 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
 #
 ## 📜 Certifications
 <p align="center">
-  <img src="certi/Java Training-1.png" width="200px" height="150">
-  <img src="certi/Python-1.png" width="200px" height="150">
-  <img src="certi/C-1.png" width="200px" height="150">
-  <img src="certi/Cpp-1.png" width="200px" height="150">
-  <img src="certi/Maven_Embedded_Systems-1.png" width="200px" height="150">
-  <img src="certi/Mohit_Introduction_to_Packet_Tracer_Badge20230727-28-ep6ofp-1.png" width="200px" height="150">
-  <img src="certi/digitalgarage_certificate-1.png" width="200px" height="150">
-  <img src="certi/computer networks certificate-1.png" width="200px" height="150">
-  <img src="certi/nptel certificate-1.png" width="200px" height="150">
-  <img src="certi/Adobe_UI_UX-1.png" width="200px" height="150">
+  <img src="certi/Java Training-1.png" width="100px" height="50px">
+  <img src="certi/Python-1.png" width="100px" height="50px">
+  <img src="certi/C-1.png" width="100px" height="50px">
+  <img src="certi/Cpp-1.png" width="100px" height="50px">
+  <img src="certi/Maven_Embedded_Systems-1.png" width="100px" height="50px">
+  <img src="certi/Mohit_Introduction_to_Packet_Tracer_Badge20230727-28-ep6ofp-1.png" width="100px" height="50px">
+  <img src="certi/digitalgarage_certificate-1.png" width="100px" height="50px">
+  <img src="certi/computer networks certificate-1.png" width="100px" height="50px">
+  <img src="certi/nptel certificate-1.png" width="100px" height="50px">
+  <img src="certi/Adobe_UI_UX-1.png" width="100px" height="50px">
 </p>
 
 ---
@@ -130,15 +130,3 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
     </td>
   </tr>
 </table>
-
-#
-### 🔧 Some extra tools
-<p align="center">
-  <img align="center" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Arduino" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-  <img align="center" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="Tinkercad" width="50px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/mQFpMUd2YiZ0Z8_NUxIQe-XxxfJY2rGFhFsbCHceEIcLx-ZWUmG0hmEivG80I6yhotY" />
-  <img align="center" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-</p>
