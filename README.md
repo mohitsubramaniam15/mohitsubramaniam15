@@ -11,10 +11,10 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 
 #
 ### 🎓 Education
-<table align="center" style="border-radius: 0px;">
+<table align="center" style="border-radius: 0px; width: 100%; table-layout: fixed;">
   <tr>
-    <td align="center">
-      <img src="https://technovitchennai.com/aboutvitchennai.png" alt="VIT Chennai" height="200" style="border-radius: 8px;">
+    <td align="center" style="vertical-align: top; padding: 10px;">
+      <img src="https://technovitchennai.com/aboutvitchennai.png" alt="VIT Chennai" width="350" height="200" style="border-radius: 8px; object-fit: cover;">
       <br>
       <b>Vellore Institute of Technology, Chennai</b>
       <br>
@@ -24,8 +24,8 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
       <br>
       <b>Graduation Year:</b> 2025
     </td>
-    <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNLLLEnWo-4IwEfHH4vT7chhJclfnx0aaIrA&s" alt="APS Bangalore" height = "200" style="border-radius: 8px;">
+    <td align="center" style="vertical-align: top; padding: 10px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNLLLEnWo-4IwEfHH4vT7chhJclfnx0aaIrA&s" alt="APS Bangalore" width="350" height="200" style="border-radius: 8px; object-fit: cover;">
       <br>
       <b>Army Public School, Bangalore</b>
       <br>
