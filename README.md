@@ -18,7 +18,7 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
   <img align="center" alt="Azure" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" />
   <img align="center" alt="Fabric" width="50px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" />
   <img align="center" alt="Databricks" width="50px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" />
-  <img align="center" alt="Synapse" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/A/azure-synapse-analytics-logo-B87A556A9C-seeklogo.com.png" />
+  <img align="center" alt="Synapse" width="50px" style="padding-right:10px;" src="https://logowik.com/content/uploads/images/azure-synapse-analytics6078.jpg" />
   <img align="center" alt="Delta Lake" width="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZC0ik3p3Xgi-AVqqy-GheqJX6VjqhyX2_w&s" />
   <img align="center" alt="AWS" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
   <img align="center" alt="dbt" width="50px" style="padding-right:10px;" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-icon-sefw4nnptjlk5lk13atgvm.png/dbt-icon-2yxlz1fvy25mvn5scgnlw.png?_a=DAJFJtWIZAAC" />
