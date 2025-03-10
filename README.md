@@ -6,14 +6,14 @@ Hello! I'm **Mohit Subramaniam**, a B.Tech student at **Vellore Institute of Tec
 ### 🧰 Languages and Tools
 <table align="center">
   <tr>
-    <td align="center" width="200px">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50px" />
       <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="50px" />
       <img src="https://www.cdnlogo.com/logos/d/78/dax.svg" alt="DAX" width="50px" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="50px" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="Power BI" width="50px" />
     </td>
-    <td align="center" width="200px">
+    <td align="center">
       <img src="https://cdn.iconscout.com/icon/free/png-512/free-excel-logo-icon-download-in-svg-png-gif-file-formats--brand-brands-logos-pack-icons-116252.png?f=webp&w=512" alt="Excel" width="50px" />
       <img src="https://static1.squarespace.com/static/57cfc8a3d482e945c66724f7/57da3788f5e231f8a01b6b76/5f68275528978b1bff2abeab/1600763192655/PowerQ2.PNG?format=1500w" alt="Power Query" width="50px" />
       <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-icon-download-in-svg-png-gif-file-formats--logo-developer-tool-brand-logos-pack-icons-1597554.png?f=webp&w=512" alt="GitHub" width="50px" />
