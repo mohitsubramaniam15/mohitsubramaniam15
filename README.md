@@ -76,7 +76,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
   <tr>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/aws-project">
-          <img src="assets/aws_youtube.png" alt="AWS YouTube Analysis" width="350" style="border-radius: 8px;">
+          <img src="bi_screenshots/Aws-yt-vis.png" alt="AWS YouTube Analysis" width="350" style="border-radius: 8px;">
       </a>
       <br>
       <b>AWS YouTube Analysis</b>
