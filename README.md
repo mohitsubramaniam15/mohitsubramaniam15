@@ -52,7 +52,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
   <tr>
     <td align="center">
       <a href="#">
-          <img src="assets/azure_adventure.png" alt="Azure Adventure" height="200" style="border-radius: 8px;">
+          <img src="bi_screenshots/azure_adventure.png" alt="Azure Adventure" height="200" style="border-radius: 8px;">
       </a>
       <br>
       <b>Azure Adventure</b>
@@ -65,7 +65,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
     </td>
     <td align="center">
       <a href="#">
-          <img src="assets/fabric_news.png" alt="Fabric News Analytics" height="200" style="border-radius: 8px;">
+          <img src="bi_screenshots/fabric_news.png" alt="Fabric News Analytics" height="200" style="border-radius: 8px;">
       </a>
       <br>
       <b>Fabric News: Real-Time News Analytics with Microsoft Fabric</b>
