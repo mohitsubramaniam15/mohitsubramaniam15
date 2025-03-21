@@ -47,7 +47,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
 </table>
 
 #
-## 🚀 Featured Projects
+## 🚀 Featured Data Projects
 <table align="center" style="border-radius: 0px;"> 
   <tr>
     <td align="center">
