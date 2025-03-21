@@ -51,7 +51,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
 <table align="center" style="border-radius: 0px;"> 
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/mohitsubramaniam15/Az-Adventure">
           <img src="bi_screenshots/azure_adventure.png" alt="Azure Adventure" height="200" style="border-radius: 8px;">
       </a>
       <br>
@@ -64,7 +64,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
       </sub>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/mohitsubramaniam15/Fabric-news">
           <img src="bi_screenshots/fabric_news.png" alt="Fabric News Analytics" height="200" style="border-radius: 8px;">
       </a>
       <br>
