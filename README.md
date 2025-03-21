@@ -48,7 +48,36 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
 
 #
 ## 🚀 Featured Data Projects
+## 🚀 Featured Data Projects
 <table align="center" style="border-radius: 0px;"> 
+  <tr>
+    <td align="center">
+      <a href="#">
+          <img src="assets/azure_adventure.png" alt="Azure Adventure" height="200" style="border-radius: 8px;">
+      </a>
+      <br>
+      <b>Azure Adventure</b>
+      <br>
+      <sub>End-to-end data pipeline with Azure Data Lake, Databricks, Synapse, and Power BI for advanced analytics.</sub>
+      <br>
+      <sub>
+        <b>Tech Stack:</b> Azure Data Factory, Azure Data Lake Gen2, Azure Databricks (PySpark), Azure Synapse Analytics, Power BI, CSV, Parquet
+      </sub>
+    </td>
+    <td align="center">
+      <a href="#">
+          <img src="assets/fabric_news.png" alt="Fabric News Analytics" height="200" style="border-radius: 8px;">
+      </a>
+      <br>
+      <b>Fabric News: Real-Time News Analytics with Microsoft Fabric</b>
+      <br>
+      <sub>Real-time news analysis pipeline using Microsoft Fabric for data ingestion, processing, and visualization.</sub>
+      <br>
+      <sub>
+        <b>Tech Stack:</b> Bing News API, Data Factory, One Lake, Synapse Data Engineering, Synapse Data Science, Power BI, Data Activator, Teams, JSON
+      </sub>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/Az-finance-streaming">
