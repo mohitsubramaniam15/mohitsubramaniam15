@@ -92,10 +92,10 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
   <tr>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/gcp-af-soda-dbt-docker">
-          <img src="assets/gcp_snowflake.png" alt="GCP Snowflake Sales Analysis" width="350" style="border-radius: 8px;">
+          <img src="assets/gcp_snowflake.png" alt="Retail GCE SODA Analysis" width="350" style="border-radius: 8px;">
       </a>
       <br>
-      <b>GCP Snowflake Sales Analysis</b>
+      <b>Retail GCE SODA Analysis</b>
       <br>
       <sub>Orchestrated an ETL pipeline with Apache Airflow and BigQuery, ensuring data quality with Soda and dbt.</sub>
       <br>
