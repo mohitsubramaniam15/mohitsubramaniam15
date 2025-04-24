@@ -219,7 +219,6 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
 
 #
 ## 📜 Cloud Certifications 
-## 📜 Cloud Certifications 
 <p align="center">
   <a href="https://learn.microsoft.com/en-in/users/mohitsubramaniam-8561/credentials/5a992c580a47758c?ref=https%3A%2F%2Fwww.overleaf.com%2F" target="_blank">
     <img src="certi/az900.png">
