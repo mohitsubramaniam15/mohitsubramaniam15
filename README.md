@@ -9,8 +9,22 @@ I’ve built scalable ETL pipelines, streaming architectures, and analytical das
 </p>
 My favourite visualisation tool is <b>PowerBI</b> and I have some experience with EDA and basic ML models.
 
----
+#
+## 📚 IEEE Accepted Journal Paper
 
+<table align="center" style="border-radius: 0px; width: 100%; table-layout: fixed;">
+<tr>
+    <td align="center">
+      <a href="https://github.com/mohitsubramaniam15/hybrid_clustering_based_in-place_sorting_algorithm">
+          <img src="assets/hybrid_sorting.png" alt="Hybrid Clustering-Based In-Place Sorting Algorithm" width="350" style="border-radius: 8px;">
+      </a>
+      <br>
+      <b>Hybrid Sorting Algorithm</b>
+    </td>
+  </tr>
+</table>
+
+#
 ## 🚀 Featured Data Projects
 <table align="center" style="border-radius: 0px;"> 
   <tr>
@@ -182,24 +196,9 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
 </table>
 
 ---
+
 ### 🎨 Hobby-projects
 <table align="center" style="border-radius: 0px;"> 
-  <tr>
-    <td align="center">
-      <a href="https://github.com/mohitsubramaniam15/hybrid_clustering_based_in-place_sorting_algorithm">
-          <img src="assets/hybrid_sorting.png" alt="Hybrid Clustering-Based In-Place Sorting Algorithm" width="350" style="border-radius: 8px;">
-      </a>
-      <br>
-      <b>Hybrid Sorting Algorithm</b>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mohitsubramaniam15/Password-Manager">
-          <img src="assets/password_manager.png" alt="Password Manager with an Easter Egg" width="350" style="border-radius: 8px;">
-      </a>
-      <br>
-      <b>Password Manager</b>
-    </td>
-  </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/RC-Fire-Rescue-Rover">
