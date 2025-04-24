@@ -197,7 +197,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
 
 ---
 
-### 🎨 Hobby-projects
+## 🎨 Hobby-projects
 <table align="center" style="border-radius: 0px;"> 
   <tr>
     <td align="center">
