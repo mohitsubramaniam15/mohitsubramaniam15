@@ -1,13 +1,13 @@
 ## 👋 About Me
 #### Hello, world! 
 <p>
-I'm a B.Tech student at <b>VIT Chennai</b>, specializing in <b>Computer Science Engineering (Cyber-Physical Systems)</b>. I focus on <b>data engineering, cloud computing</b>, and real-time analytics, working with <b>Azure, AWS, GCP, Snowflake, Fabric, and Airflow</b> <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15/edit/main/README.md#-featured-data-projects">[Check Data Projects]</a> .
+I'm a B.Tech student at <b>VIT Chennai</b>, specializing in <b>Computer Science Engineering (Cyber-Physical Systems)</b>. I focus on <b>data engineering, cloud computing</b>, and real-time analytics, working with <b>Azure, AWS, GCP, Snowflake, Fabric, and Airflow</b> <a href="https://github.com/mohitsubramaniam15#-featured-data-projects">[Check Data Projects]</a> .
 I’ve built scalable ETL pipelines, streaming architectures, and analytical dashboards using tools like Databricks, Power BI, dbt, and Delta Lake.
   </p>
 <p>
   I enjoy playing the guitar 🎸, working on hardware projects 🔧 (hint: <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15?tab=readme-ov-file#-hobby-projects">check hobby projects</a>), and watching movies 🎬 in my free time. 
 </p>
-My favourite visualisation tool is <b>PowerBI</b> and I have some experience with EDA and basic ML models <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15/edit/main/README.md#-featured-ai-projects">[Check AI projects]</a>.
+My favourite visualisation tool is <b>PowerBI</b> and I have some experience with EDA and basic ML models <a href="https://github.com/mohitsubramaniam15#-featured-ai-projects">[Check AI projects]</a>.
 
 #
 <table align="center" style="border-radius: 0px; width: 100%; table-layout: fixed;">
