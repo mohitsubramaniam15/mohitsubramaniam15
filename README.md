@@ -1,28 +1,40 @@
 ## 👋 About Me
 #### Hello, world! 
 <p>
-I'm a B.Tech student at <b>VIT Chennai</b>, specializing in <b>Computer Science Engineering (Cyber-Physical Systems)</b>. I focus on <b>data engineering, cloud computing</b>, and real-time analytics, working with <b>Azure, AWS, GCP, Snowflake, Fabric, and Airflow</b>.
+I'm a B.Tech student at <b>VIT Chennai</b>, specializing in <b>Computer Science Engineering (Cyber-Physical Systems)</b>. I focus on <b>data engineering, cloud computing</b>, and real-time analytics, working with <b>Azure, AWS, GCP, Snowflake, Fabric, and Airflow</b> <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15/edit/main/README.md#-featured-data-projects">[Check Data Projects]</a> .
 I’ve built scalable ETL pipelines, streaming architectures, and analytical dashboards using tools like Databricks, Power BI, dbt, and Delta Lake.
   </p>
 <p>
   I enjoy playing the guitar 🎸, working on hardware projects 🔧 (hint: <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15?tab=readme-ov-file#-hobby-projects">check hobby projects</a>), and watching movies 🎬 in my free time. 
 </p>
-My favourite visualisation tool is <b>PowerBI</b> and I have some experience with EDA and basic ML models.
+My favourite visualisation tool is <b>PowerBI</b> and I have some experience with EDA and basic ML models <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15/edit/main/README.md#-featured-ai-projects">[Check AI projects]</a>.
 
 #
-## 📚 IEEE Accepted Journal Paper
-
 <table align="center" style="border-radius: 0px; width: 100%; table-layout: fixed;">
-<tr>
-    <td align="center">
+  <tr>
+    <td align="left" style="vertical-align: middle; width: 50%;">
+      <h2>📚 IEEE Early Acess Journal Paper</h2>
+      <p align = "center">  <a href="https://ieeexplore.ieee.org/document/10976644"> Cluster Sort: A Hybrid In-Place Sorting Algorithm </p></a>
+    </td>
+    <td align="center" style="width: 50%;">
       <a href="https://github.com/mohitsubramaniam15/hybrid_clustering_based_in-place_sorting_algorithm">
           <img src="assets/hybrid_sorting.png" alt="Hybrid Clustering-Based In-Place Sorting Algorithm" width="350" style="border-radius: 8px;">
       </a>
       <br>
-      <b>Hybrid Sorting Algorithm</b>
+      <b>Github Repo</b>
     </td>
   </tr>
 </table>
+
+
+
+#
+## 🧠 Featured AI Projects
+
+|  **Project** | **Description** | **Tech Stack** | **Links** |
+|----------------|------------------|----------------|------------|
+| 🎧 **Kuku Shorts — AI-Powered Audio Reels** | Gen-AI pipeline that converts books and news into 90-second audio reels. Summarizes long-form text using OpenRouter (DeepSeek LLM), converts to speech with Azure Cognitive Services (TTS), and streams via a Streamlit UI. Built on a 3-layer Bronze–Silver–Gold architecture using Azure Blob and Pipelines for scalable dataflow. | Streamlit, Python, OpenRouter (DeepSeek LLM), Azure Cognitive Services (TTS), Azure Blob Storage, Azure Pipelines | [GitHub](https://github.com/mohitsubramaniam15/KukuDemoShorts) \| [Demo](https://drive.google.com/file/d/13PdKWknrEqy3_nu3DCIeIU_5YBa14KEN/view?usp=sharing) |
+| 🙂 **Emotion-Based Music Recommendation** | Classifies emotion from song lyrics using an LSTM model trained on the GoEmotions dataset. Streamlit app recommends Spotify tracks based on detected mood. | TensorFlow (LSTM), Python, Pandas, Streamlit, Spotify API, Scikit-learn, NLP | [GitHub](https://github.com/mohitsubramaniam15/EmotionSongRec) |
 
 #
 ## 🚀 Featured Data Projects
