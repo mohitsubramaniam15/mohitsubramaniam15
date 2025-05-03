@@ -15,7 +15,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
 <table align="center" style="border-radius: 0px; width: 100%; table-layout: fixed;">
   <tr>
     <td align="left" style="vertical-align: middle; width: 50%;">
-      <h2>📚 IEEE Early Acess Journal Paper</h2>
+      <h2>📚 IEEE Journal Paper</h2>
       <p align = "center">  <a href="https://ieeexplore.ieee.org/document/10976644"> Cluster Sort: A Hybrid In-Place Sorting Algorithm </p></a>
     </td>
     <td align="center" style="width: 50%;">
