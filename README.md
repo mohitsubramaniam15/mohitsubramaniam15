@@ -124,7 +124,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
   <tr>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/gcp-af-soda-dbt-docker">
-          <img src="assets/gcp_snowflake.png" alt="Retail GCE SODA Analysis" width="350" style="border-radius: 8px;">
+          <img src="https://github.com/mohitsubramaniam15/mohitsubramaniam15/blob/main/bi_screenshots/Retail_gcp.png" alt="Retail GCE SODA Analysis" width="350" style="border-radius: 8px;">
       </a>
       <br>
       <b>Retail GCE SODA Analysis</b>
