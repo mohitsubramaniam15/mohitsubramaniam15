@@ -203,7 +203,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
     <td align="center" style="padding: 10px;">
       <b>Bachelor of Technology</b><br>
       Computer Engineering (Specialization in Cyber Physical Systems)<br>
-      <b>CGPA:</b> 7.89<br>
+      <b>CGPA:</b> 7.96<br>
       <b>Graduation Year:</b> 2025
     </td>
     <td align="center" style="padding: 10px;">
