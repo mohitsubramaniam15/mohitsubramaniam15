@@ -110,19 +110,6 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
       <sub><b>Tech Stack:</b> AWS S3, Glue, Lambda, Athena, QuickSight, CloudWatch</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/mohitsubramaniam15/Aws-Snowflake-RS">
-          <img src="assets/aws_snowflake.png" alt="AWS Snowflake Real Estate Analysis" width="350" style="border-radius: 8px;">
-      </a>
-      <br>
-      <b>AWS Snowflake Real Estate Analysis</b>
-      <br>
-      <sub>Automated ETL for real estate data using Apache Airflow and Snowflake, with Power BI insights.</sub>
-      <br>
-      <sub><b>Tech Stack:</b> AWS, Apache Airflow, EC2, S3, Snowflake, Power BI, SQL, Python</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/mohitsubramaniam15/gcp-af-soda-dbt-docker">
           <img src="https://github.com/mohitsubramaniam15/mohitsubramaniam15/blob/main/bi_screenshots/Retail_gcp.png" alt="Retail GCE SODA Analysis" width="350" style="border-radius: 8px;">
       </a>
@@ -133,12 +120,21 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
       <br>
       <sub><b>Tech Stack:</b> Apache Airflow, BigQuery, Soda, dbt, Power BI, SQL, Python</sub>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+       <a href="https://github.com/mohitsubramaniam15/orders_dbt_sf_af">
+        <b>AWS Snowflake Real Estate Analysis</b>
+       </a>
+      <br>
+      <sub>Automated ETL for real estate data using Apache Airflow and Snowflake, with Power BI insights.</sub>
+      <br>
+      <sub><b>Tech Stack:</b> AWS, Apache Airflow, EC2, S3, Snowflake, Power BI, SQL, Python</sub>
+    </td>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/orders_dbt_sf_af">
-          <img src="assets/dbt_snowflake.png" alt="DBT Snowflake Orders Analysis" width="350" style="border-radius: 8px;">
+          <b>DBT Snowflake Orders Analysis</b>
       </a>
-      <br>
-      <b>DBT Snowflake Orders Analysis</b>
       <br>
       <sub>Designed automated dbt pipelines with Snowflake and Airflow (Astronomer) for optimized data processing.</sub>
       <br>
