@@ -82,7 +82,7 @@ I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-pub
     <td align="center" style="width:50%">
       <a href="https://github.com/mohitsubramaniam15/Aws-sf-RS"><b style="font-size:18px;">AWS Snowflake Real Estate Anomaly & Trend Analysis</b></a>
       <br>
-      <img src="bi_screenshots/aws_snowflake.png" alt="AWS Snowflake" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
+      <img src="bi_screenshots/Redfin.png" alt="AWS Snowflake" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
     </td>
     <td align="left" style="width:20%">
       SQL, Python, AWS, Apache Airflow, Snowflake, Tableau, Google Sheets, Colab
@@ -137,8 +137,8 @@ I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-pub
     </td>
     <td align="center">
       <a href="https://github.com/mohitsubramaniam15/orders_dbt_sf_af">
+                  <img src="bi_screenshots/dbt.png" alt="Azure-Fabric Streaming Analysis" height="200" style="border-radius: 8px;"></a>      <br>
           <b>DBT Snowflake Orders Analysis</b>
-      </a>
       <br>
       <sub>Designed automated dbt pipelines with Snowflake and Airflow (Astronomer) for optimized data processing.</sub>
       <br>
