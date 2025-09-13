@@ -8,6 +8,24 @@ I have hands-on experience building <b>end-to-end data pipelines and real-time a
 <p>
 I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-published author</b></a> for research on performance-driven algorithms.  <a href="https://github.com/mohitsubramaniam15/hybrid_clustering_based_in-place_sorting_algorithm"> Repo for the same.</a>
 </p>
+<table align="center" style="margin:auto; text-align:center; border-collapse: collapse; font-size:18px;">
+  <tr>
+    <th style="padding: 12px 24px;">📊 Data Analysis</th>
+    <th style="padding: 12px 24px;">🛠️ Data Engineering</th>
+    <th style="padding: 12px 24px;">📜 Cloud Certifications</th>
+  </tr>
+  <tr>
+    <td style="padding: 12px 24px;">
+      <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15/blob/main/README.md#-data-analysis">Go to Data Analysis</a>
+    </td>
+    <td style="padding: 12px 24px;">
+      <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15/blob/main/README.md#%EF%B8%8F-data-engineering">Go to Data Engineering</a>
+    </td>
+    <td style="padding: 12px 24px;">
+      <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15/blob/main/README.md#-cloud-certifications">Go to Certifications</a>
+    </td>
+  </tr>
+</table>
 
 #
 ## 📊 Data Analysis 
