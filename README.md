@@ -6,7 +6,7 @@ I have hands-on experience building <b>end-to-end data pipelines and real-time a
 </p>
 
 <p>
-I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-published author</b></a> for research on performance-driven algorithms.  
+I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-published author</b></a> for research on performance-driven algorithms.  <a href="https://github.com/mohitsubramaniam15/hybrid_clustering_based_in-place_sorting_algorithm"> Repo for the same.</a>
 </p>
 
 #
