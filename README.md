@@ -1,46 +1,15 @@
-## 👋 About Me
-#### Hello, world! 
-<p>
-I'm a B.Tech student at <b>VIT Chennai</b>, specializing in <b>Computer Science Engineering (Cyber-Physical Systems)</b>. I focus on <b>data engineering, cloud computing</b>, and real-time analytics, working with <b>Azure, AWS, GCP, Snowflake, Fabric, and Airflow</b> <a href="https://github.com/mohitsubramaniam15#-featured-data-projects">[Check Data Projects]</a> .
-I’ve built scalable ETL pipelines, streaming architectures, and analytical dashboards using tools like Databricks, Power BI, dbt, and Delta Lake.
-  </p>
-<p>
-  I enjoy playing the guitar 🎸, working on hardware projects 🔧 (hint: <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15?tab=readme-ov-file#-hobby-projects">check hobby projects</a>), and watching movies 🎬 in my free time. 
-</p>
-My favourite visualisation tool is <b>PowerBI</b> and I have some experience with EDA and basic ML models <a href="https://github.com/mohitsubramaniam15#-featured-ai-projects">[Check AI projects]</a>.
-
-<p align="center">
-  <a href="https://github.com/mohitsubramaniam15#-cloud-certifications">Checkout my Certifications</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/mosub/">Also, Checkout my LinkedIn</a>
+## 👋 Hello, world!
+<p align="justify">
+I am a recent <b>Computer Science Engineering (Cyber-Physical Systems)</b> graduate from <b>VIT Chennai</b>, specializing in <b>data engineering and analytics</b>.  
+I am a self-taught learner with foundational <b>cloud and data certifications</b>, skilled in <b>SQL, Python, statistics, EDA, and data visualization</b> (10+ dashboards).  
+I have hands-on experience building <b>end-to-end data pipelines and real-time architectures</b> across <b>Azure, AWS, and GCP</b>, working with tools such as <b>Snowflake, dbt, Airflow, Power BI, Databricks, and Delta Lake</b>.  
 </p>
 
-#
-<table align="center" style="border-radius: 0px; width: 100%; table-layout: fixed;">
-  <tr>
-    <td align="left" style="vertical-align: middle; width: 50%;">
-      <h2>📚 IEEE Journal Paper</h2>
-      <p align = "center">  <a href="https://ieeexplore.ieee.org/document/10976644"> Cluster Sort: A Hybrid In-Place Sorting Algorithm </p></a>
-    </td>
-    <td align="center" style="width: 50%;">
-      <a href="https://github.com/mohitsubramaniam15/hybrid_clustering_based_in-place_sorting_algorithm">
-          <img src="assets/hybrid_sorting.png" alt="Hybrid Clustering-Based In-Place Sorting Algorithm" width="350" style="border-radius: 8px;">
-      </a>
-      <br>
-      <b>Github Repo</b>
-    </td>
-  </tr>
-</table>
+<p>
+I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-published author</b></a> for research on performance-driven algorithms.  
+</p>
 
 
-
-#
-## 🧠 Featured AI Projects
-
-|  **Project** | **Description** | **Tech Stack** | **Links** |
-|----------------|------------------|----------------|------------|
-| 🎧 **Kuku Shorts — AI-Powered Audio Reels** | Gen-AI pipeline that converts books and news into 90-second audio reels. Summarizes long-form text using OpenRouter (DeepSeek LLM), converts to speech with Azure Cognitive Services (TTS), and streams via a Streamlit UI. Built on a 3-layer Bronze–Silver–Gold architecture using Azure Blob and Pipelines for scalable dataflow. | Streamlit, Python, OpenRouter (DeepSeek LLM), Azure Cognitive Services (TTS), Azure Blob Storage, Azure Pipelines | [GitHub](https://github.com/mohitsubramaniam15/KukuDemoShorts) \| [Demo](https://drive.google.com/file/d/13PdKWknrEqy3_nu3DCIeIU_5YBa14KEN/view?usp=sharing) |
-| 🙂 **Emotion-Based Music Recommendation** | Classifies emotion from song lyrics using an LSTM model trained on the GoEmotions dataset. Streamlit app recommends Spotify tracks based on detected mood. | TensorFlow (LSTM), Python, Pandas, Streamlit, Spotify API, Scikit-learn, NLP | [GitHub](https://github.com/mohitsubramaniam15/EmotionSongRec) |
 
 #
 ## 🚀 Featured Data Projects
@@ -143,7 +112,6 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
   </tr>
 </table>
 
----
 
 ## 🧰 Languages and Tools
 <table align="center">
@@ -180,37 +148,6 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
   </tr>
 </table>
 
-#
-## 🎓 Education
-<table align="center" style="border-radius: 0px; width: 100%; table-layout: fixed;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://technovitchennai.com/aboutvitchennai.png" alt="VIT Chennai" width="350" height="200" style="border-radius: 8px; object-fit: cover;">
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNLLLEnWo-4IwEfHH4vT7chhJclfnx0aaIrA&s" alt="APS Bangalore" width="350" height="200" style="border-radius: 8px; object-fit: cover;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;"><b>Vellore Institute of Technology, Chennai</b></td>
-    <td align="center" style="padding: 10px;"><b>Army Public School, Bangalore</b></td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <b>Bachelor of Technology</b><br>
-      Computer Engineering (Specialization in Cyber Physical Systems)<br>
-      <b>CGPA:</b> 7.96<br>
-      <b>Graduation Year:</b> 2025
-    </td>
-    <td align="center" style="padding: 10px;">
-      <b>Higher Secondary</b> (2021): 85%<br>
-      <b>Secondary</b> (2019): 87.5%
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🎨 Hobby-projects
 <table align="center" style="border-radius: 0px;"> 
   <tr>
@@ -231,7 +168,14 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
   </tr>
 </table>
 
-#
+## 🧠 Featured AI Projects
+
+|  **Project** | **Description** | **Tech Stack** | **Links** |
+|----------------|------------------|----------------|------------|
+| 🎧 **Kuku Shorts — AI-Powered Audio Reels** | Gen-AI pipeline that converts books and news into 90-second audio reels. Summarizes long-form text using OpenRouter (DeepSeek LLM), converts to speech with Azure Cognitive Services (TTS), and streams via a Streamlit UI. Built on a 3-layer Bronze–Silver–Gold architecture using Azure Blob and Pipelines for scalable dataflow. | Streamlit, Python, OpenRouter (DeepSeek LLM), Azure Cognitive Services (TTS), Azure Blob Storage, Azure Pipelines | [GitHub](https://github.com/mohitsubramaniam15/KukuDemoShorts) \| [Demo](https://drive.google.com/file/d/13PdKWknrEqy3_nu3DCIeIU_5YBa14KEN/view?usp=sharing) |
+| 🙂 **Emotion-Based Music Recommendation** | Classifies emotion from song lyrics using an LSTM model trained on the GoEmotions dataset. Streamlit app recommends Spotify tracks based on detected mood. | TensorFlow (LSTM), Python, Pandas, Streamlit, Spotify API, Scikit-learn, NLP | [GitHub](https://github.com/mohitsubramaniam15/EmotionSongRec) |
+
+
 ## 📜 Cloud Certifications 
 ### AZ900
 <p align="center">
@@ -246,21 +190,3 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
     <img src="certi/dp900.png">
   </a>
 </p>
-
-
-
-#
-## 📜 Certificates 
-<p align="center">
-  <img src="certi/Java Training-1.png" height="100">
-  <img src="certi/Python-1.png" height="100">
-  <img src="certi/C-1.png" height="100">
-  <img src="certi/Cpp-1.png" height="100">
-  <img src="certi/Maven_Embedded_Systems-1.png" height="100">
-  <img src="certi/Mohit_Introduction_to_Packet_Tracer_Badge20230727-28-ep6ofp-1.png" height="100">
-  <img src="certi/digitalgarage_certificate-1.png" height="100">
-  <img src="certi/computer networks certificate-1.png" height="100">
-  <img src="certi/nptel certificate-1.png" height="100">
-  <img src="certi/Adobe_UI_UX-1.png" height="100">
-</p>
-
