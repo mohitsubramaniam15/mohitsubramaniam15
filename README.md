@@ -29,66 +29,66 @@ I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-pub
 
 #
 ## 📊 Data Analysis 
-<table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse; font-size:16px;">
+<table align="center" style="width: 90%; table-layout: fixed; border-collapse: collapse; font-size:16px; margin: auto;">
   <tr>
-    <th style="width:45%; font-size:20px;" align="center">Project & Dashboard</th>
+    <th style="width:45%; font-size:20px;" align="center">Project & Description</th>
     <th style="width:20%; font-size:18px;" align="center">Tech Stack</th>
-    <th style="width:35%; font-size:18px;" align="center">Description</th>
+    <th style="width:35%; font-size:18px;" align="center">Dashboard</th>
   </tr>
 
   <tr>
-    <td align="center" style="width:50%">
+    <td align="center" style="width:45%">
       <a href="https://github.com/mohitsubramaniam15/gcp-retail"><b style="font-size:18px;">GCP Retail Validation & Trend Analysis</b></a>
       <br>
-      <img src="bi_screenshots/Retail_gcp.png" alt="Retail GCP" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
-    </td>
-    <td align="left" style="width:20%">
-      Google Colab, SQL, Python, Apache Airflow, Google BigQuery, dbt, Soda, Power BI
-    </td>
-    <td align="justify" style="width:30%">
       Analyzed <b>543K transactions</b> across 8 columns, uncovering revenue trends and top-selling products. Built an interactive dashboard capturing <b>Revenue $8.9M</b>, <b>18.5K invoices</b>, and <b>4.3K customers</b>, providing actionable insights on customer activity and cancellations.
     </td>
+    <td align="center" style="width:20%">
+      Google Colab, SQL, Python, Apache Airflow, Google BigQuery, dbt, Soda, Power BI
+    </td>
+    <td align="center" style="width:35%">
+      <img src="bi_screenshots/Retail_gcp.png" alt="Retail GCP" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
+    </td>
   </tr>
 
   <tr>
-    <td align="center" style="width:50%">
+    <td align="center" style="width:45%">
       <a href="https://github.com/mohitsubramaniam15/Az-Olympics"><b style="font-size:18px;">Azure Olympics Trend & Comparative Analysis</b></a>
       <br>
-      <img src="bi_screenshots/olympics.png" alt="Azure Olympics" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
-    </td>
-    <td align="left" style="width:20%">
-      Azure, Databricks, Colab, Pandas, Seaborn, Matplotlib, Power BI, CSV, Parquet, Delta Lake
-    </td>
-    <td align="justify" style="width:30%">
       Processed <b>70K+ athlete records</b> with Delta Lake and Databricks. Created dashboards highlighting medal leaders, gender evolution, and decade-wise performance, delivering actionable insights on Olympic trends.
     </td>
+    <td align="center" style="width:20%">
+      Azure, Databricks, Colab, Pandas, Seaborn, Matplotlib, Power BI, CSV, Parquet, Delta Lake
+    </td>
+    <td align="center" style="width:35%">
+      <img src="bi_screenshots/olympics.png" alt="Azure Olympics" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
+    </td>
   </tr>
 
   <tr>
-    <td align="center" style="width:50%">
+    <td align="center" style="width:45%">
       <a href="https://github.com/mohitsubramaniam15/aws-project"><b style="font-size:18px;">AWS YouTube Correlation & Regional Analysis</b></a>
       <br>
-      <img src="bi_screenshots/Aws-yt-vis.png" alt="AWS YouTube Analysis" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
+      Transformed <b>22 files</b> across <b>11 regions</b>, analyzing <b>600+ global YouTube channels</b>. Dashboards show <b>102B views</b>, <b>3B likes</b>, <b>283M comments</b>, and <b>119M dislikes</b>, highlighting audience behavior and regional trends.
     </td>
-    <td align="left" style="width:20%">
+    <td align="center" style="width:20%">
       Python, SQL, Pandas, Seaborn, Matplotlib, Power BI, AWS, Kaggle, Colab
     </td>
-    <td align="justify" style="width:30%">
-      Transformed <b>22 files</b> across <b>11 regions</b>, analyzing <b>600+ global YouTube channels</b>. Dashboards show <b>102B views</b>, <b>3B likes</b>, <b>283M comments</b>, and <b>119M dislikes</b>, highlighting audience behavior and regional trends.
+    <td align="center" style="width:35%">
+      <img src="bi_screenshots/Aws-yt-vis.png" alt="AWS YouTube Analysis" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
     </td>
   </tr>
 
   <tr>
-    <td align="center" style="width:50%">
+    <td align="center" style="width:45%">
       <a href="https://github.com/mohitsubramaniam15/Aws-sf-RS"><b style="font-size:18px;">AWS Snowflake Real Estate Anomaly & Trend Analysis</b></a>
       <br>
-      <img src="bi_screenshots/Redfin.png" alt="AWS Snowflake" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
+      Processed <b>9.12M rows</b> from S3 to Snowflake and built a Tableau dashboard on <b>73K+ rows</b> and <b>62 columns</b>, visualizing MoM and YoY trends. Detected anomalies like price spikes, inventory dips, and regional disparities using statistical analysis.
     </td>
-    <td align="left" style="width:20%">
+    <td align="center" style="width:20%">
       SQL, Python, AWS, Apache Airflow, Snowflake, Tableau, Google Sheets, Colab
     </td>
-    <td align="justify" style="width:30%">
-      Processed <b>9.12M rows</b> from S3 to Snowflake and built a Tableau dashboard on <b>73K+ rows</b> and <b>62 columns</b>, visualizing MoM and YoY trends. Detected anomalies like price spikes, inventory dips, and regional disparities using statistical analysis.
+    <td align="center" style="width:35%">
+      <img src="bi_screenshots/Redfin.png" alt="AWS Snowflake" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
     </td>
   </tr>
 </table>
@@ -163,10 +163,6 @@ I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-pub
       <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-icon-sefw4nnptjlk5lk13atgvm.png/dbt-icon-2yxlz1fvy25mvn5scgnlw.png?_a=DAJFJtWIZAAC" alt="dbt" height="35px" />
       <img src="https://images.ctfassets.net/h6ufgtwb6nv1/4xeg3E52wiN7iUDIlBacsw/065485e8ac85198c8b435c49daa54550/snowflake__1_.svg" alt="Snowflake" height="35px" />
       <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker" height="35px" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="https://www.cdnlogo.com/logos/d/78/dax.svg" alt="DAX" height="35px" />
       <img src="https://static1.squarespace.com/static/57cfc8a3d482e945c66724f7/57da3788f5e231f8a01b6b76/5f68275528978b1bff2abeab/1600763192655/PowerQ2.PNG?format=1500w" alt="Power Query" height="35px" />
       <img src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" alt="Databricks" height="35px" />
@@ -174,16 +170,13 @@ I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-pub
       <img src="https://logowik.com/content/uploads/images/azure-synapse-analytics6078.jpg" alt="Synapse" height="35px" />
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wBizqY6LoRyWJ7Xgr2CXVGBTLwkx9VIflQ&s" alt="Airflow" height="35px" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" height="35px" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" height="35px" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="GCP" height="35px" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="35px" />
     </td>
   </tr>
 </table>
+
 
 ## 🎨 Hobby-projects
 <table align="center" style="border-radius: 0px; width:95%;">
