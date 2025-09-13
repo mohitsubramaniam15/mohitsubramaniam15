@@ -9,10 +9,73 @@ I have hands-on experience building <b>end-to-end data pipelines and real-time a
 I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-published author</b></a> for research on performance-driven algorithms.  
 </p>
 
-
-
 #
-## 🚀 Featured Data Projects
+### 📊 Data Analysis 
+<table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse; font-size:16px;">
+  <tr>
+    <th style="width:45%; font-size:20px;" align="center">Project & Dashboard</th>
+    <th style="width:20%; font-size:18px;" align="center">Tech Stack</th>
+    <th style="width:35%; font-size:18px;" align="center">Description</th>
+  </tr>
+
+  <tr>
+    <td align="center" style="width:50%">
+      <a href="https://github.com/mohitsubramaniam15/gcp-retail"><b style="font-size:18px;">GCP Retail Validation & Trend Analysis</b></a>
+      <br>
+      <img src="bi_screenshots/Retail_gcp.png" alt="Retail GCP" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
+    </td>
+    <td align="left" style="width:20%">
+      Google Colab, SQL, Python, Apache Airflow, Google BigQuery, dbt, Soda, Power BI
+    </td>
+    <td align="justify" style="width:30%">
+      Analyzed <b>543K transactions</b> across 8 columns, uncovering revenue trends and top-selling products. Built an interactive dashboard capturing <b>Revenue $8.9M</b>, <b>18.5K invoices</b>, and <b>4.3K customers</b>, providing actionable insights on customer activity and cancellations.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="width:50%">
+      <a href="https://github.com/mohitsubramaniam15/Az-Olympics"><b style="font-size:18px;">Azure Olympics Trend & Comparative Analysis</b></a>
+      <br>
+      <img src="bi_screenshots/olympics.png" alt="Azure Olympics" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
+    </td>
+    <td align="left" style="width:20%">
+      Azure, Databricks, Colab, Pandas, Seaborn, Matplotlib, Power BI, CSV, Parquet, Delta Lake
+    </td>
+    <td align="justify" style="width:30%">
+      Processed <b>70K+ athlete records</b> with Delta Lake and Databricks. Created dashboards highlighting medal leaders, gender evolution, and decade-wise performance, delivering actionable insights on Olympic trends.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="width:50%">
+      <a href="https://github.com/mohitsubramaniam15/aws-project"><b style="font-size:18px;">AWS YouTube Correlation & Regional Analysis</b></a>
+      <br>
+      <img src="bi_screenshots/Aws-yt-vis.png" alt="AWS YouTube Analysis" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
+    </td>
+    <td align="left" style="width:20%">
+      Python, SQL, Pandas, Seaborn, Matplotlib, Power BI, AWS, Kaggle, Colab
+    </td>
+    <td align="justify" style="width:30%">
+      Transformed <b>22 files</b> across <b>11 regions</b>, analyzing <b>600+ global YouTube channels</b>. Dashboards show <b>102B views</b>, <b>3B likes</b>, <b>283M comments</b>, and <b>119M dislikes</b>, highlighting audience behavior and regional trends.
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="width:50%">
+      <a href="https://github.com/mohitsubramaniam15/Aws-sf-RS"><b style="font-size:18px;">AWS Snowflake Real Estate Anomaly & Trend Analysis</b></a>
+      <br>
+      <img src="bi_screenshots/aws_snowflake.png" alt="AWS Snowflake" style="border-radius: 8px; margin-top: 8px; max-width:100%; height:auto;">
+    </td>
+    <td align="left" style="width:20%">
+      SQL, Python, AWS, Apache Airflow, Snowflake, Tableau, Google Sheets, Colab
+    </td>
+    <td align="justify" style="width:30%">
+      Processed <b>9.12M rows</b> from S3 to Snowflake and built a Tableau dashboard on <b>73K+ rows</b> and <b>62 columns</b>, visualizing MoM and YoY trends. Detected anomalies like price spikes, inventory dips, and regional disparities using statistical analysis.
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Data Engineering
 <table align="center" style="border-radius: 0px;"> 
   <tr>
     <td align="center">
@@ -55,52 +118,6 @@ I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-pub
       <sub><b>Tech Stack:</b> Fabric, Azure Event Hubs, Stream Analytics, Synapse, KQL</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/mohitsubramaniam15/Az-Olympics">
-          <img src="bi_screenshots/olympics.png" alt="Azure Olympics-Delta Lake Analysis" height="200" style="border-radius: 8px;">
-      </a>
-      <br>
-      <b>Azure Olympics-Delta Lake Analysis</b>
-      <br>
-      <sub>Implemented Medallion architecture for Olympic data processing with Delta Lake and Power BI visualization.</sub>
-      <br>
-      <sub><b>Tech Stack:</b> Azure, Databricks, Power BI, DAX, JSON, SQL, PySpark</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/mohitsubramaniam15/aws-project">
-          <img src="bi_screenshots/Aws-yt-vis.png" alt="AWS YouTube Analysis" width="350" style="border-radius: 8px;">
-      </a>
-      <br>
-      <b>AWS YouTube Analysis</b>
-      <br>
-      <sub>Built a scalable AWS pipeline for YouTube analytics with S3, Glue, Athena, and QuickSight.</sub>
-      <br>
-      <sub><b>Tech Stack:</b> AWS S3, Glue, Lambda, Athena, QuickSight, CloudWatch</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mohitsubramaniam15/gcp-af-soda-dbt-docker">
-          <img src="https://github.com/mohitsubramaniam15/mohitsubramaniam15/blob/main/bi_screenshots/Retail_gcp.png" alt="Retail GCE SODA Analysis" width="350" style="border-radius: 8px;">
-      </a>
-      <br>
-      <b>Retail GCE SODA Analysis</b>
-      <br>
-      <sub>Orchestrated an ETL pipeline with Apache Airflow and BigQuery, ensuring data quality with Soda and dbt.</sub>
-      <br>
-      <sub><b>Tech Stack:</b> Apache Airflow, BigQuery, Soda, dbt, Power BI, SQL, Python</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-       <a href="https://github.com/mohitsubramaniam15/Aws-sf-RS">
-        <b>AWS Snowflake Real Estate Analysis</b>
-       </a>
-      <br>
-      <sub>Automated ETL for real estate data using Apache Airflow and Snowflake, with Power BI insights.</sub>
-      <br>
-      <sub><b>Tech Stack:</b> AWS, Apache Airflow, EC2, S3, Snowflake, Power BI, SQL, Python</sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/mohitsubramaniam15/orders_dbt_sf_af">
           <b>DBT Snowflake Orders Analysis</b>
       </a>
@@ -111,6 +128,8 @@ I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-pub
     </td>
   </tr>
 </table>
+
+
 
 
 ## 🧰 Languages and Tools
