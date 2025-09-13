@@ -123,7 +123,7 @@ My favourite visualisation tool is <b>PowerBI</b> and I have some experience wit
   </tr>
   <tr>
     <td align="center">
-       <a href="https://github.com/mohitsubramaniam15/orders_dbt_sf_af">
+       <a href="https://github.com/mohitsubramaniam15/Aws-sf-RS">
         <b>AWS Snowflake Real Estate Analysis</b>
        </a>
       <br>
