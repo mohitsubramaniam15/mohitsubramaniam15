@@ -16,13 +16,13 @@ I am also an <a href="https://ieeexplore.ieee.org/document/10976644"><b>IEEE-pub
   </tr>
   <tr>
     <td style="padding: 12px 24px;">
-      <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15/blob/main/README.md#-data-analysis">Go to Data Analysis</a>
+      <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15#-data-analysis">Go to Data Analysis</a>
     </td>
     <td style="padding: 12px 24px;">
-      <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15/blob/main/README.md#%EF%B8%8F-data-engineering">Go to Data Engineering</a>
+      <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15#%EF%B8%8F-data-engineering">Go to Data Engineering</a>
     </td>
     <td style="padding: 12px 24px;">
-      <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15/blob/main/README.md#-cloud-certifications">Go to Certifications</a>
+      <a href="https://github.com/mohitsubramaniam15/mohitsubramaniam15#-cloud-certifications">Go to Certifications</a>
     </td>
   </tr>
 </table>
